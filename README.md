@@ -1,4 +1,4 @@
-# The Boolean Game
+# The Input Game
 
 Today, we're going to be working with booleans. Like... a lot.
 
@@ -21,3 +21,9 @@ Don't do those, though. Do something else!
 * A "Switch" button that will change things over to use your _other app_.
 
 That's right, attention-payers: once you've successfully finished  an app, **make another!**
+
+### Where do I start?
+* Get at least one app idea (and run it by your teacher!)
+* See if you can get your app to console.log the contents of all five input fields.
+* ???
+* Profit!
